@@ -23,8 +23,8 @@ implement CRUD operations.  The data needs to be stored for different year/month
 1. Create your own branch (git -b <your_name>)
 
 ### Building and Running the App
-1. In the configurationapp directory (under the directory you checked out the code to) run: mvn clean install.
-1. In the target directory run: java -jar configurationapp.jar
+1. In the configurationapp directory (under the directory you checked out the code to) run: mvn clean package.
+1. In the configurationapp/target directory run: java -jar configurationapp.jar
 1. In your favorite browser navigate to localhost:7001/configuration
 1. You should see a welcome message if you haven't made any changes.
 
