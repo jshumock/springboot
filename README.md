@@ -19,8 +19,9 @@ implement CRUD operations.  The data needs to be stored for different year/month
 * [Maven](https://maven.apache.org/download.cgi)  **The Maven POM is already configured and ready for spring boot.**
 
 ### Checking out
-1. Clone the repo using git (git clone https://github.com/greatideaman/springboot.git)
-1. Create your own branch (git branch <your_name>)
+1. Fork the repo using github (By clicking the fork button in the top right hand corner)
+1. Clone the newly forked repo (git clone <your repo address>)
+1. Commit changes as you make them to your forked repo.
 
 ### Building and Running the App
 1. In the configurationapp directory (under the directory you checked out the code to) run: mvn clean package.
@@ -29,5 +30,5 @@ implement CRUD operations.  The data needs to be stored for different year/month
 1. You should see a welcome message if you haven't made any changes.
 
 ### Submitting the code
-1. Push your local changes to the remote repo (git push)
-1. Create a Pull Request to master of this repo.
+1. Push your local changes to your remote repo (git push)
+1. Create a Pull Request to master of this repo by clicking "Create Pull Request" in your forked repo.
