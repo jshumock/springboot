@@ -13,8 +13,8 @@ implement CRUD operations.  The data needs to be stored for different year/month
 ## Getting the Code and Running the App
 
 ### Dependencies
-* JDK 1.8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* Maven (https://maven.apache.org/download.cgi)
+* [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* [Maven](https://maven.apache.org/download.cgi)
 **The Maven POM is already configured and ready for spring boot.**
 
 ### Checking out
