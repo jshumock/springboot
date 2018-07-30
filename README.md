@@ -20,7 +20,7 @@ implement CRUD operations.  The data needs to be stored for different year/month
 
 ### Checking out
 1. Clone the repo using git (git clone https://github.com/greatideaman/springboot.git)
-1. Create your own branch (git -b <your_name>)
+1. Create your own branch (git branch <your_name>)
 
 ### Building and Running the App
 1. In the configurationapp directory (under the directory you checked out the code to) run: mvn clean package.
