@@ -2,6 +2,8 @@
 Our Application is largely configuration driven.  One of the configuration screens that was recently redesigned allowed us to configure which data sets are visible to which users.  I have provided a basic skeleton that renders a basic page and has stubbed out code to 
 implement CRUD operations.  The data needs to be stored for different year/month time periods.  For example, Jan 2018 has a set of configs A,B,C,D.  However, Feb 2018 has the set of configs A,C,F,G,H. For convenience, you can use the string "022018" as Feb 2018 to avoid date code. Once you have it working, please submit your code by issuing a PR to master in the repo.
 
+**Hint: There are a couple of bugs that will need to be corrected.**
+
 ### Minimum Requirements:
 1. Display whatever is currently configured **(not having a configuration is not an error)** in a grid.
 1. Add the ability to add new configurations for a time period.
