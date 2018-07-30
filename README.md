@@ -18,7 +18,7 @@ implement CRUD operations.  The data needs to be stored for different year/month
 **The Maven POM is already configured and ready for spring boot.**
 
 ### Checking out
-1. Clone the repo using git (git clone <repo>)
+1. Clone the repo using git (git clone https://github.com/greatideaman/springboot.git)
 1. Create your own branch (git -b <your_name>)
 
 ### Submitting the code
