@@ -25,7 +25,7 @@ implement CRUD operations.  The data needs to be stored for different year/month
 ### Building and Running the App
 1. In the configurationapp directory (under the directory you checked out the code to) run: mvn clean package.
 1. In the configurationapp/target directory run: java -jar configurationapp.jar
-1. In your favorite browser navigate to localhost:7001/configuration
+1. In your favorite browser navigate to localhost:9000
 1. You should see a welcome message if you haven't made any changes.
 
 ### Submitting the code
