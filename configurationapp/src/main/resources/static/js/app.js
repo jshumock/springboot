@@ -34,8 +34,6 @@
     }
     
     App.prototype.saveConfigurations = function() {
-    	//var transmitData = JSON.stringify($('#configTable').DataTable().rows().data());
-    	//var obj1 = {configId:1,configName:"asdf"};
     	var transmitArr = [];
     	
     	var tableData = $('#configTable').DataTable().data();
